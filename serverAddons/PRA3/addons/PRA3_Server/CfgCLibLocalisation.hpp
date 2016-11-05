@@ -76,7 +76,7 @@ class CfgCLibLocalisation {
                 German = "Dein Team hat Sektor %1 neutralisiert";
                 Polish = "Twoja drużyna zneutralizowała sektor %1";
                 Korean = "아군이 %1 지역을 수복하였습니다.";
-                Portuguese = "A sua equipe neutralizou o setor %1';
+                Portuguese = "A sua equipe neutralizou o setor %1";
             };
         };
 
