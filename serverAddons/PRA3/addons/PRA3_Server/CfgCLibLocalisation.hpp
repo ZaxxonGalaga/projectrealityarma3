@@ -208,7 +208,7 @@ class CfgCLibLocalisation {
                 German = "FOB zerstören";
                 Polish = "Zniszcz FOB";
                 Korean = "전진기치 철거";
-                Portuguese = "Desmontar F.O.B";
+                Portuguese = "Desmontar FOB";
             };
             class PlaceFOB {
                 English = "Place FOB";
